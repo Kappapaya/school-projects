@@ -1,1 +1,1 @@
-# Pár projektů/úkolů z VUT FIT
+# Pár úkolů/projektů v Javě ze střední školy
